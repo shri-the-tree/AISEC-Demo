@@ -1,0 +1,17 @@
+﻿[
+  {
+    "drug_a": "warfarin",
+    "drug_b": "ibuprofen",
+    "note": "Increased bleeding risk; avoid combination or use with close monitoring."
+  },
+  {
+    "drug_a": "lisinopril",
+    "drug_b": "spironolactone",
+    "note": "Risk of hyperkalemia; monitor potassium and renal function."
+  },
+  {
+    "drug_a": "sertraline",
+    "drug_b": "tramadol",
+    "note": "Potential serotonin syndrome risk; monitor closely and consider alternatives."
+  }
+]
