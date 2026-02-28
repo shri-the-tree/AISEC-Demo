@@ -614,7 +614,6 @@ All settings live in `app/config.py`. Override with a `.env` file in the `unifie
 - [Groq](https://groq.com) — inference API
 - [Meta AI](https://ai.meta.com) — Llama 3.3 70B, Llama Prompt Guard 2
 - [OpenAI](https://openai.com) — GPT-OSS-Safeguard
-- [Pliny the Liberator](https://twitter.com/elder_plinius) — jailbreak template used in attack demonstration
 - FastAPI, SQLAlchemy, React, Vite, Tailwind CSS
 
 ---
